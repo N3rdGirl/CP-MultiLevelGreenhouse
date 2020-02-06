@@ -4,7 +4,7 @@
   "Version": "1.0.0",
   "Description": "A simple multi level greenhouse with room for machines too",
   "UniqueID": "n3rdgirl.multilevelgreenhouse",
-  "UpdateKeys": [ "Nexus:5341","GitHub:N3rdGirl/CP-MultiLevelGreenhouse" ],
+  "UpdateKeys": [ "Nexus:5341" ],
   "MinimumApiVersion": "3.2",
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher",
