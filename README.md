@@ -1,2 +1,4 @@
 # CP-MultiLevelGreenhouse
-A multi level greenhouse with more space, and ability to add machines for simplicity
+A multi level greenhouse with main floor being larger for more farming space.
+Each level has the space to include machines such as kegs or preserve jars.
+There may be an even larger version in the future.
